@@ -5,7 +5,7 @@ This repository contains coarse-grained (CG) molecular dynamics simulation data,
 **"Positively and Negatively Charged Metal Nanozymes for Articular Cartilage Therapy"**
 
 ## Repository Structure
-.
+nanozyme-cartilage-therapy/
 ├── tprs/ # Production simulation parameter files (.tpr)
 ├── Density_of_GAGs/ # Density of simulated cartilage CG models
 ├── MD_Convergence/ # Simulations convergence
