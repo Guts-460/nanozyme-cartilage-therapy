@@ -14,7 +14,7 @@ This repository contains coarse-grained (CG) molecular dynamics simulation data,
 ## Requirements
 
 - **GROMACS** (version 2022.5 or later recommended)  
-  Installation: [https://www.gromacs.org/download.html](https://www.gromacs.org/download.html)
+  Installation: [https://manual.gromacs.org/2022.5/download.html](https://manual.gromacs.org/2022.5/download.html).
   
 ## Reproducing Production Trajectories
 
