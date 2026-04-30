@@ -1,0 +1,74 @@
+# This file was created Wed Nov 26 20:03:13 2025
+# Created by:
+#                     :-) GROMACS - gmx density, 2022.5 (-:
+# 
+# Executable:   /opt/gromacs-2022.5/bin/gmx
+# Data prefix:  /opt/gromacs-2022.5
+# Working dir:  /home/wenyanbing/GAG_v3/mid/wrap
+# Command line:
+#   gmx density -s ../md.tpr -f a-fit.xtc -n a-mid.ndx -b 10000 -o d-density_mid.xvg
+# gmx density is part of G R O M A C S:
+#
+# Guyana Rwanda Oman Macau Angola Cameroon Senegal
+#
+@    title "Partial density"
+@    xaxis  label "Average coordinate (nm)"
+@    yaxis  label "Density (kg m\S-3\N)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "CHO_KER_HYN"
+   0.0374104          144.036
+    0.112231          136.373
+    0.187052          149.411
+    0.261873          137.625
+    0.336694          150.117
+    0.411515          136.514
+    0.486336          144.204
+    0.561157          127.996
+    0.635978          130.889
+    0.710798          116.792
+    0.785619          120.117
+     0.86044          107.613
+    0.935261           112.52
+     1.01008          103.047
+      1.0849          108.725
+     1.15972          101.169
+     1.23454          108.391
+     1.30937          103.444
+     1.38419          107.883
+     1.45901          104.732
+     1.53383          109.599
+     1.60865          107.325
+     1.68347          111.054
+     1.75829          109.826
+     1.83311          111.322
+     1.90793           112.14
+     1.98275          112.235
+     2.05757          116.287
+      2.1324          115.597
+     2.20722          120.428
+     2.28204          118.444
+     2.35686          125.644
+     2.43168          121.692
+      2.5065          130.923
+     2.58132          124.881
+     2.65614          135.866
+     2.73096          128.781
+     2.80578           137.53
+      2.8806          126.677
+     2.95542          135.993
+     3.03025          126.356
+     3.10507          136.202
+     3.17989          123.684
+     3.25471          131.867
+     3.32953          119.613
+     3.40435          128.662
+     3.47917            119.3
+     3.55399          131.541
+     3.62881           125.21
+     3.70363            127.3
